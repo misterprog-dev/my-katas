@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e20d692e-8925-4d92-a31d-f32721130934" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dsoumaila/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dsoumaila/Fraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dsoumaila/PGCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/dsoumaila/AdditionFractionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/dsoumaila/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/dsoumaila/PGCDTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/dsoumaila/SubstractionFractionTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CizHto7yfBBaE9STIzEXdgoUw3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.dsoumaila" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.dsoumaila" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SubstractionFractionTest.substract_NonZero_With_FractionDenominatorAsZero">
+    <configuration name="SubstractionFractionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kata-fraction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsoumaila.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dsoumaila" />
+      <option name="MAIN_CLASS_NAME" value="com.dsoumaila.SubstractionFractionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubstractionFractionTest.shouldReturn_nonZeroFractionOpposite_When_Substract_WithZeroAndNonZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kata-fraction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsoumaila.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dsoumaila" />
+      <option name="MAIN_CLASS_NAME" value="com.dsoumaila.SubstractionFractionTest" />
+      <option name="METHOD_NAME" value="shouldReturn_nonZeroFractionOpposite_When_Substract_WithZeroAndNonZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubstractionFractionTest.shouldReturn_zero_WhenSubstract_WithZeroAndZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kata-fraction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsoumaila.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dsoumaila" />
+      <option name="MAIN_CLASS_NAME" value="com.dsoumaila.SubstractionFractionTest" />
+      <option name="METHOD_NAME" value="shouldReturn_zero_WhenSubstract_WithZeroAndZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubstractionFractionTest.substact_two_NonZerofraction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kata-fraction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsoumaila.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dsoumaila" />
+      <option name="MAIN_CLASS_NAME" value="com.dsoumaila.SubstractionFractionTest" />
+      <option name="METHOD_NAME" value="substact_two_NonZerofraction" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubstractionFractionTest.substract_NonZero_With_FractionDenominatorAsZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kata-fraction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsoumaila.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dsoumaila" />
+      <option name="MAIN_CLASS_NAME" value="com.dsoumaila.SubstractionFractionTest" />
+      <option name="METHOD_NAME" value="substract_NonZero_With_FractionDenominatorAsZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SubstractionFractionTest.substract_NonZero_With_FractionDenominatorAsZero" />
+        <item itemvalue="JUnit.SubstractionFractionTest.substact_two_NonZerofraction" />
+        <item itemvalue="JUnit.SubstractionFractionTest" />
+        <item itemvalue="JUnit.SubstractionFractionTest.shouldReturn_nonZeroFractionOpposite_When_Substract_WithZeroAndNonZero" />
+        <item itemvalue="JUnit.SubstractionFractionTest.shouldReturn_zero_WhenSubstract_WithZeroAndZero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e20d692e-8925-4d92-a31d-f32721130934" name="Changes" comment="" />
+      <created>1659300109896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659300109896</updated>
+      <workItem from="1659300111705" duration="5813000" />
+      <workItem from="1659377813406" duration="7478000" />
+      <workItem from="1659472187694" duration="3793000" />
+      <workItem from="1659633075052" duration="8231000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
